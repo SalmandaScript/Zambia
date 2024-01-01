@@ -152,6 +152,16 @@ color: "teal"
 });
 });
 
+//previous page
+function uganda(){
+open("https://salmandascript.github.io/Uganda/Uganda.html");
+}
+
+//next page
+function zimbabwe(){
+open("https://salmandascript.github.io/Zimbabwe/Zimbabwe.html");
+}
+
 //quizz questions code 
 function checkAnswer()
   {
